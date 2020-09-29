@@ -1,0 +1,19 @@
+.border-box {
+    border: 1px solid rgb(92,134,241);
+}
+
+.border-input {
+    border-radius: 0.25rem;
+    border: 1px solid rgb(60, 168, 31);
+    color: rgb(9, 11, 17);
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.btn-warning {
+    background-color: darkorange;
+    border-color: darkorange;
+    color: white;
+}
